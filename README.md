@@ -54,6 +54,9 @@ Then open:
 | http://localhost:8000/api/schema/ | OpenAPI 3 schema (use it to generate a typed frontend client) |
 | http://localhost:8000/admin/ | Django admin (create a superuser with `python manage.py createsuperuser`) |
 
+**Postman:** import `postman/School-Ops-API.postman_collection.json` and `postman/School-Ops-Local.postman_environment.json`,
+run the *00 Auth* folder, and every endpoint is ready to try. See [postman/README.md](postman/README.md).
+
 ### Demo accounts (after `seed_demo`)
 
 All demo accounts use the password **`DemoPass123!`**.
@@ -116,6 +119,7 @@ Frontend developers should start with **[docs/FRONTEND_INTEGRATION.md](docs/FRON
 | [docs/IMPORTING_STUDENTS.md](docs/IMPORTING_STUDENTS.md) | Excel/CSV format, column names, errors |
 | [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) | Production settings, PostgreSQL, security checklist |
 | [docs/DEMO_SCRIPT.md](docs/DEMO_SCRIPT.md) | Five-minute demo using the seed data |
+| [postman/README.md](postman/README.md) | **Postman collection**: every endpoint with role logins, tests and examples |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Conventions for adding features |
 
 ---
