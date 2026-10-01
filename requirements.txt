@@ -1,0 +1,18 @@
+# Core
+Django==5.2.17                      # LTS release line
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+drf-spectacular==0.28.0             # OpenAPI schema + Swagger UI
+django-filter==25.1
+django-cors-headers==4.7.0
+
+# Features
+openpyxl==3.1.5                     # Excel imports
+reportlab==4.4.10                   # Receipt and report card PDFs
+Pillow>=10.4                        # Image fields (school logo, student photo)
+requests>=2.32,<3                   # Paystack API
+
+# Optional: PostgreSQL in production (set DB_ENGINE=postgres)
+# psycopg[binary]>=3.2
+# Optional: production web server
+# gunicorn>=23

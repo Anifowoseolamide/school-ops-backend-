@@ -1,0 +1,6 @@
+Admission No,Surname,First Name,Middle Name,Class,Sex,Date of Birth,Parent Name,Relationship,Parent Phone,Parent Email
+SSS/2026/1001,Okafor,Chinedu,Emeka,JSS 1A,M,12/03/2014,Mrs Ngozi Okafor,Mother,08000001001,parent1001@example.com
+SSS/2026/1002,Bello,Amina,,JSS 1A,F,05/07/2014,Mr Musa Bello,Father,08000001002,
+SSS/2026/1003,Adeyemi,Tolu,Grace,JSS 1B,F,21/11/2013,Mrs Folake Adeyemi,Mother,08000001003,parent1003@example.com
+SSS/2025/0904,Eze,Kelechi,,JSS 2A,M,30/01/2013,Mr Obinna Eze,Father,08000001004,
+SSS/2025/0905,Eze,Ada,,JSS 2A,F,02/09/2014,Mr Obinna Eze,Father,08000001004,
