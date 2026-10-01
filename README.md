@@ -35,7 +35,7 @@ The full feature plan, with V2, is in the product plan PDF the team shared. This
 Requirements: Python 3.11+.
 
 ```bash
-git clone <this repo>
+git clone https://github.com/Anifowoseolamide/school-ops-backend-.git school-ops-backend
 cd school-ops-backend
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
